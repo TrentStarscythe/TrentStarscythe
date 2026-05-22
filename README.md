@@ -16,10 +16,13 @@ My work focuses on **clarity, maintainability, and deterministic system design**
 
 ## 🚀 Featured Projects
 
+### 🔹 Custom Projects Host:
+🔗 Live Demos & Details Linked Here: https://jdobsontechprojects.lovable.app/
+
 ### 🔹 AI Workflow Automation Agent  
 A multi‑agent Python system that processes documents end‑to‑end using LLMs, async workers, and modular pipelines.  
 **Tech:** Python, LLM APIs, FastAPI, Docker  
-🔗 Live Demo & Details Linked Here: https://jdobsontechprojects.lovable.app/
+🔗 Link and Details Coming Soon - video POC Shared upon request
 
 ---
 
