@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Jon Dobson  
+### Technical Strategist • AI Systems Builder • Python Engineer • Quant & Security Focus
 
-<!--
-**TrentStarscythe/TrentStarscythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build **modular, intelligent systems** that solve real problems.  
+My background blends **systems architecture, automation, AI workflows, cybersecurity, and quantitative thinking** — giving me a unique ability to bridge strategy with implementation.
 
-Here are some ideas to get you started:
+I'm currently pivoting into roles across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI Engineering / Agentic Systems**
+- **Quantitative Development / Data Engineering**
+- **Security Engineering / AI‑Driven Threat Detection**
+
+My work focuses on **clarity, maintainability, and deterministic system design**, whether I'm building AI agents, data pipelines, or game‑tech systems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Workflow Automation Agent  
+A multi‑agent Python system that processes documents end‑to‑end using LLMs, async workers, and modular pipelines.  
+**Tech:** Python, LLM APIs, FastAPI, Docker  
+🔗 Live Demo & Details: https://jdobsontechprojects.lovable.app/
+
+---
+
+### 🔹 Market Data Pipeline + Trading Signal Prototype  
+A quant‑style data pipeline that ingests market data, computes indicators, and generates simple trading signals with backtesting.  
+**Tech:** Python, pandas, NumPy, yfinance  
+🔗 Repo coming soon (in active development)
+
+---
+
+### 🔹 Cybersecurity Log‑Analysis Agent  
+AI‑assisted anomaly detection for log files using statistical outlier detection + LLM‑based pattern explanation.  
+**Tech:** Python, pandas, regex, LLM APIs  
+🔗 Repo coming soon (in active development)
+
+---
+
+### 🔹 Unity Action‑RPG Systems Architecture (Towers of Skyfall)  
+Architected procedural generation, investment‑gated progression, and modular combat systems for an action‑RPG.  
+**Tech:** Unity, C#, ScriptableObjects  
+🔗 Project Overview: https://jdobsontechprojects.lovable.app/
+
+---
+
+## 🧠 What I’m Learning Now
+
+- Applied statistics & probability for quant workflows  
+- Calculus refreshers for optimization and modeling  
+- Advanced Python patterns for AI and automation  
+- Security automation and anomaly detection  
+- Agentic AI frameworks and workflow orchestration  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C#, JavaScript  
+**AI & Data:** LLM APIs, LangChain, pandas, NumPy, data pipelines  
+**Security:** Threat analysis, log parsing, anomaly detection  
+**Systems:** Modular architecture, async workflows, Docker, Git  
+**Game Tech:** Unity, ScriptableObjects, systems design  
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/jon-dobson-b1179637b/  
+**Portfolio:** https://jdobsontechprojects.lovable.app/  
+
+If you're working on AI systems, quant pipelines, or security automation — I’d love to connect.
+
