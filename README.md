@@ -19,7 +19,7 @@ My work focuses on **clarity, maintainability, and deterministic system design**
 ### 🔹 AI Workflow Automation Agent  
 A multi‑agent Python system that processes documents end‑to‑end using LLMs, async workers, and modular pipelines.  
 **Tech:** Python, LLM APIs, FastAPI, Docker  
-🔗 Live Demo & Details: https://jdobsontechprojects.lovable.app/
+🔗 Live Demo & Details Linked Here: https://jdobsontechprojects.lovable.app/
 
 ---
 
@@ -40,7 +40,7 @@ AI‑assisted anomaly detection for log files using statistical outlier detectio
 ### 🔹 Unity Action‑RPG Systems Architecture (Towers of Skyfall)  
 Architected procedural generation, investment‑gated progression, and modular combat systems for an action‑RPG.  
 **Tech:** Unity, C#, ScriptableObjects  
-🔗 Project Overview: https://jdobsontechprojects.lovable.app/
+🔗 Project Overview coming soon
 
 ---
 
