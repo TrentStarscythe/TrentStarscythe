@@ -28,8 +28,8 @@ A multi‑agent Python system that processes documents end‑to‑end using LLMs
 
 ### 🔹 Market Data Pipeline + Trading Signal Prototype  
 A quant‑style data pipeline that ingests market data, computes indicators, and generates simple trading signals with backtesting.  
-**Tech:** Python, pandas, NumPy, yfinance  
-🔗 Repo coming soon (in active development)
+**Tech:** Python, pandas, NumPy, yfinance, HuggingFace, Sentiment Analysis, NewsAPI
+🔗 https://github.com/TrentStarscythe/stock_tracker (in active development, currently v1)
 
 ---
 
